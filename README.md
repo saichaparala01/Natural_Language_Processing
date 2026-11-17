@@ -22,3 +22,6 @@ Estimating bigram probabilities using MLE
 A function to compute the probability of any sentence
 Testing the model on two sample sentences
 Printing which sentences the model prefers and why
+
+**Homework_4.Project Overview & Functionality**
+This assignment covers key concepts in Natural Language Processing (NLP), including Sequence-to-Sequence models, attention mechanisms, self-attention, multi-head attention, and Transformer architecture. The programming section implements an NLP preprocessing pipeline, Named Entity Recognition (NER) using spaCy, and scaled dot-product attention using Python and NumPy. The assignment combines theoretical understanding with practical implementation of important NLP and Transformer concepts.
